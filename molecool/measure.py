@@ -6,7 +6,7 @@ def calculate_distance(point_A, point_B):
 
     Parameters
     ----------
-    point_A, point_B : numpy array (np.ndarray)
+    point_A, point_B : np.ndarray
         Coordinates of each point.
 
     Returns
